@@ -56,7 +56,7 @@ The variation within each digit class is modeled using k orthogonal basis vector
 
 ### Confusion Matrix
 
-
+![confusion_matrix](https://github.com/user-attachments/assets/9237c4ae-0b49-4d15-abfb-e299a73011a4)
 
 The confusion matrix visualizes the accuracy of the classification. Each element Cij represents the number of observations known to be in group i and predicted to be in group j. Three test digits out of ten were classified incorrectly, while the remaining were classified correctly.
 
